@@ -37,11 +37,13 @@ English / [简体中文](./README_CN.md)
 
 ## ❤️ Sponsor AI API
 
-<a href='https://302.ai/'>
-  <img src="https://github.com/user-attachments/assets/a03edf82-2031-4f23-bdb8-bfc0bfd168a4" width="100%" alt="icon"/>
-</a>
+# NextChat + AIMLAPI
 
-[302.AI](https://302.ai/) is a pay-as-you-go AI application platform that offers the most comprehensive AI APIs and online applications available.
+本仓库已集成 AIMLAPI（多模型 API 网关，OpenAI 兼容）。
+
+🔗 快速体验 AIMLAPI（通过我的分销链接注册）：
+[点击这里注册](https://aimlapi.com?via=coke)
+
 
 ## 🥳 Cheer for NextChat iOS Version Online!
 
