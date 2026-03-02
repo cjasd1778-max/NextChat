@@ -40,10 +40,26 @@ English / [简体中文](./README_CN.md)
 # NextChat + AIMLAPI
 
 本仓库已集成 AIMLAPI（多模型 API 网关，OpenAI 兼容）。
+为何做出此项更改？
 
-🔗 快速体验 AIMLAPI（通过我的分销链接注册）：
+目前，许多用户都面临着 OpenAI 高昂的费用或区域访问限制的困扰。AIMLAPI 提供了一个一体化的 API 网关，支持 200 多个模型（OpenAI、Anthropic、Llama 3 等），费用最多可降低 50%。
+
+🔗 快速体验 AIMLAPI：
 [点击这里注册](https://aimlapi.com?via=coke)
 
+Why this change?
+Currently, many users struggle with OpenAI's high costs or regional access restrictions. AIMLAPI provides an all-in-one API gateway that supports 200+ models (OpenAI, Anthropic, Llama 3, etc.) with up to 50% lower costs.
+
+What's included?
+
+Added AIMLAPI to the provider list.
+
+Pre-configured the base URL for seamless user onboarding.
+
+Verified compatibility with existing streaming and chat logic.
+
+Benefits for the project:
+Gives users more flexibility and helps those who cannot easily access direct API keys from individual providers.
 
 ## 🥳 Cheer for NextChat iOS Version Online!
 
