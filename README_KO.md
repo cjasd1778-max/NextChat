@@ -39,11 +39,15 @@
 
 ## ❤️ AI API 후원사
 
-<a href='https://302.ai/'>
-  <img src="https://github.com/user-attachments/assets/a03edf82-2031-4f23-bdb8-bfc0bfd168a4" width="100%" alt="icon"/>
-</a>
+このリポジトリには、AIMLAPI（OpenAI互換のマルチモデルAPIゲートウェイ）が統合されています。
 
-[302.AI](https://302.ai/)는 사용한 만큼만 비용을 지불하는 AI 애플리케이션 플랫폼으로, 다양한 AI API 및 온라인 애플리케이션을 제공합니다.
+なぜこの変更になったのですか？
+
+現在、多くのユーザーがOpenAI関連の高額なコストや地域的なアクセス制限といった課題に直面しています。AIMLAPIは、200以上のモデル（OpenAI、Anthropic、Llama 3など）をサポートするオールインワンAPIゲートウェイを提供し、コストを最大50%削減できます。
+
+🔗 AIMLAPIを今すぐ体験：
+
+[登録はこちら](https://aimlapi.com?via=coke)
 
 ## 🥳 NextChat iOS 버전 출시!
 
