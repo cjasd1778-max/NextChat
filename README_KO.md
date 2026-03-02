@@ -39,15 +39,15 @@
 
 ## ❤️ AI API 후원사
 
-このリポジトリには、AIMLAPI（OpenAI互換のマルチモデルAPIゲートウェイ）が統合されています。
+이 저장소에는 AIMLAPI(OpenAI와 호환되는 멀티 모델 API 게이트웨이)가 통합되었습니다.
 
-なぜこの変更になったのですか？
+이러한 변경의 이유는 무엇일까요?
 
-現在、多くのユーザーがOpenAI関連の高額なコストや地域的なアクセス制限といった課題に直面しています。AIMLAPIは、200以上のモデル（OpenAI、Anthropic、Llama 3など）をサポートするオールインワンAPIゲートウェイを提供し、コストを最大50%削減できます。
+현재 많은 사용자가 OpenAI 사용과 관련된 높은 비용이나 지역별 접근 제한 문제에 직면하고 있습니다. AIMLAPI는 200개 이상의 모델(OpenAI, Anthropic, Llama 3 등)을 지원하는 올인원 API 게이트웨이로서, 비용을 최대 50%까지 절감할 수 있도록 도와줍니다.
 
-🔗 AIMLAPIを今すぐ体験：
+🔗 AIMLAPI를 빠르게 경험해 보세요:
 
-[登録はこちら](https://aimlapi.com?via=coke)
+[여기를 클릭하여 등록하세요](https://aimlapi.com?via=coke)
 
 ## 🥳 NextChat iOS 버전 출시!
 
